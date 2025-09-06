@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="demo.png" alt="Demo ASCII Cam" width="600">
+</div>
+
+
 # ASCII Virtual Cam (Duotone) by CHAT GPT
 
 Script Python untuk mengubah input webcam menjadi **video ASCII berwarna (duotone)** dan mengalirkannya ke **virtual camera** via `v4l2loopback`. Script otomatis menjalankan:
